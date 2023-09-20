@@ -15,6 +15,6 @@
 ## 5. Projects
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
-[LectBox]()|React|shared storage in cloud computing
+[LectBox](https://github.com/KHU-LectBox/LectBox_front)|React|shared storage in cloud computing
 [AutoTrashCan]|Java(android app)| A system that automatically sorts garbage using raspberry pie (print result on android UI)
 [PhotoClassification](https://github.com/mongsik98/mongsik/files/12669214/default.pdf)|python|Automatically categorize photos conveniently and accurately
