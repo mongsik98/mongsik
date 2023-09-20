@@ -11,6 +11,9 @@
  - LikeLion ios App School 2023-09 ~
 
 ## 4. Objectives
+ - Developing native apps based on Swift
+ - Development experience through issue management collaboration tools such as git, etc
+ - 
 
 ## 5. Projects
 Project            | Skills           | Description
